@@ -1,0 +1,21 @@
+
+.Login{
+    text-align: center;
+    color: white;
+}
+
+.homeButton{
+  padding: 5px;
+  background: #57EB07;
+  border: 2px solid #57EB07;;
+  border-radius: 5px;
+  font-size: 16px;
+  color: black;
+  font-weight: 500;
+  cursor: pointer;
+}
+.homeButton:hover{
+  border: 2px solid #57EB07;
+  background: #404040;
+  color: #57EB07;
+}
